@@ -1,0 +1,12 @@
+#Regras de negocio
+
+[x] cadastrar um user com name e username
+
+Ref: 
+User model
+{ 
+	id: 'uuid', // precisa ser um uuid
+	name: 'Danilo Vieira', 
+	username: 'danilo', 
+	todos: []
+}
